@@ -1,2 +1,0 @@
-# InteractiveLibrary
-Java CLI -  InteractiveLibrary
